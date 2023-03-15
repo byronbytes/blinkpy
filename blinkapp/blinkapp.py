@@ -1,4 +1,4 @@
-"""Script to run blinkpy as an blinkapp."""
+"""Script to run blinkpy as a blinkapp."""
 from os import environ
 from datetime import datetime, timedelta
 from blinkpy.blinkpy import Blink
