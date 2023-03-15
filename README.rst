@@ -123,7 +123,7 @@ The most recent images and videos can be accessed as a bytes-object via internal
 .. code:: python
     
     camera = blink.cameras['SOME CAMERA NAME']
-    blink.refresh(force=True)  # force a cache update USE WITH CAUTION
+    blink.refresh(force=True)    # force a cache update USE WITH CAUTION
     camera.image_from_cache.raw  # bytes-like image object (jpg)
     camera.video_from_cache.raw  # bytes-like video object (mp4)
 
