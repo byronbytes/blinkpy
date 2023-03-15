@@ -8,7 +8,7 @@ Everyone is welcome to contribute to blinkpy! The process to get started is desc
 Fork the Repository
 -------------------
 
-You can do this right in github: just click the 'fork' button at the top right.
+You can do this straight from GitHub: just click the 'fork' button at the top right.
 
 Start Developing
 -----------------
@@ -59,11 +59,11 @@ Start Developing
    - The base branch dropdown menu should read ``dev``. Use the compare branch drop-down menu to choose the branch you made your changes        in.
    - Type a title and complete the provided description for your pull request.
    - Click Create pull request.
-   - More detailed instructions can be found here: `Creating a Pull Request` <https://help.github.com/articles/creating-a-pull-request>`__
+   - More detailed instructions can be found here: `Creating a Pull Request <https://help.github.com/articles/creating-a-pull-request>`_
    
 7. Prior to merge approval
    
-   Finally, the ``blinkpy`` repository uses continuous integration tools to run tests prior to merging. If there are any problems, you  will see a red 'X' next to your pull request.
+Finally, the ``blinkpy`` repository uses continuous integration tools to run tests prior to merging. If there are any problems, you will see a red 'X' next to your pull request.
 
 
 Testing
